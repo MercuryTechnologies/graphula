@@ -19,6 +19,7 @@ dependencies. We use this interface to generate fixtures for automated testing.
 {-# LANGUAGE ExistentialQuantification #-}
 {-# LANGUAGE StandaloneDeriving #-}
 {-# LANGUAGE FlexibleInstances #-}
+{-# LANGUAGE FlexibleContexts #-}
 {-# LANGUAGE UndecidableInstances #-}
 {-# OPTIONS_GHC -fno-warn-missing-deriving-strategies #-}
 {-# OPTIONS_GHC -fno-warn-orphans #-}
