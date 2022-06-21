@@ -1,6 +1,19 @@
-## [*Unreleased*](https://github.com/freckle/graphula/compare/v2.0.0.3...main)
+## [*Unreleased*](https://github.com/freckle/graphula/compare/v2.0.1.0...main)
 
 None
+
+## [v2.0.1.0](https://github.com/freckle/graphula/compare/v2.0.0.5...v2.0.1.0)
+
+- Add/improve documentation
+- Re-organize previously-internal module
+
+## [v2.0.0.5](https://github.com/freckle/graphula/compare/v2.0.0.4...v2.0.0.5)
+
+- Release without dependencies upper bounds
+
+## [v2.0.0.4](https://github.com/freckle/graphula/compare/v2.0.0.3...v2.0.0.4)
+
+- Relax persistent packages' upper bounds
 
 ## [v2.0.0.3](https://github.com/freckle/graphula/compare/v2.0.0.2...v2.0.0.3)
 
